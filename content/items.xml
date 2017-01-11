@@ -1,0 +1,9 @@
+<items gfxroot="gfx/items/" version="1">
+	<active name="Testing Button" description="For Testing!" gfx="test_button.png" />
+
+	<passive name="Eye of the Subconscious" description="Subconscious Firing" gfx="closed_eye.png" />
+	<passive name="Remote Control" description="RC Bombs" gfx="remote_control.png" />
+	<passive name="Bleeding Edge Tech" description="It's an early prototype..." gfx="bleeding_edge_tech.png" />
+
+	<active name="Action Worm" description="Range Up + Moldable Tears!" gfx="plastic_worm.png" maxcharges="1" />
+</items>

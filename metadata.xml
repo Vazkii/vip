@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Vazkii's Item Pack</name>
+    <directory>vip</directory>
+    <id>838903672</id>
+    <description>This mod adds a few new funky items to the game:
+
+- Eye of the Subconscious: Isaac stops being able to fire manually and will fire like Demon Baby.
+- Remote Control: Bombs move in the direction of Isaac's tears.
+- Bleeding Edge Tech: Technology that is aimed towards Isaac's moving familiars.
+- Action Worm: Moldable Worm type item.
+
+If you want to check them out in action, check out the video. I'll be adding more items as I come up with more cool ideas to add.
+
+Currently these do not spawn properly as there doesn't appear to be a way to get them in the item pools. You'll need to give them via the debug console.</description>
+    <version>1.0.1</version>
+    <visibility>Public</visibility>
+    <tag id="Items"/>
+</metadata>
