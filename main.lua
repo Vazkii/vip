@@ -3,7 +3,7 @@
 -- ########################################
 
 local mod = RegisterMod("Vazkii's Item Pack", 1);
-local testing = true;
+local testing = false;
 
 local itemClosedEye = Isaac.GetItemIdByName("Eye of the Subconscious");
 local itemRemoteControl = Isaac.GetItemIdByName("Remote Control");

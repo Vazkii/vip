@@ -1,0 +1,12 @@
+<ItemPools>
+    <Pool Name="treasure">
+        <Item Name="Bleeding Edge Tech" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Action Worm" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+    <Pool Name="shop">
+        <Item Name="Remote Control" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+    <Pool Name="devil">
+        <Item Name="Eye of the Subconscious" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+</ItemPools>
